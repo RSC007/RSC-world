@@ -1,0 +1,31 @@
+.footer{
+    padding-top: 20px;
+    background-color: rgba(110, 57, 117, 0.507);
+}
+
+.jumbotron{
+    background-color: #bc42f5;
+    margin-bottom: 0px;
+    color: cornsilk;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.about_text{
+    width: 100%;
+   
+}
+
+.main_text{
+    padding: 40px 0px;
+    width: 100%;
+  
+}
+
+.text{
+    margin: 20px 0px;
+}
